@@ -45,4 +45,4 @@ Exxon’s auto-tuning algorithm may not have brought a whole lot of success with
 
 Spotify’s algorithm-based playlist has made them stand out from the competition by comparing one user’s playlist to other users’ playlists they are able to introduce new music that aligns with the individual’s taste in music for an overall better experience. 
 3.
-I hypothesize that an efficient algorithm is fast and simple enough that it can resolve various problems, but not so simple that that the problem it solves is inconsequential. An inefficient algorithm is slow and overly complex potentially only working for a very specific problem.
+I hypothesize that an efficient algorithm is fast and simple enough that it can resolve various problems, but not so simple that that the problem it solves is inconsequential. An inefficient algorithm is slow and overly complex potentially only working for a very specific problem.# algorithms-introduction-answers
