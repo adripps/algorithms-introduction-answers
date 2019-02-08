@@ -1,0 +1,48 @@
+1.
+IF amount of coffee grounds >= one scoop
+	add one scoop coffee grounds to coffee filter
+ELSE
+	add coffee to grocery list
+	RETURN can’t make coffee right now
+Add filter to coffee maker
+Add water to coffee maker
+SET coffee maker to on
+WHILE coffee is brewing
+	wait
+SET coffee maker to off
+Add coffee to cup
+RETURN cup of coffee
+
+WHILE dishes in sink
+	WHILE food is still on plate
+		rinse plate
+	Add plate to dishwasher
+SET dishwasher to on
+WHILE dishwasher is running
+	wait
+WHILE dishwasher is full
+	Add dishes to cabinets
+
+WHILE laundry in hamper !== 0
+	Add laundry from hamper into washer
+SET washer to on
+WHILE washer is running
+	wait
+WHILE laundry in washer !== 0
+	Add laundry from washer to dryer
+SET dryer to on
+WHILE dryer is running
+	wait
+WHILE laundry in dryer !== 0
+	remove laundry
+	fold laundry
+	add laundry to closet
+	
+2.
+Facebook’s News Feed algorithm helped Facebook to stand out amongst other social networking sites by showing the user only things they’re likely interested in which also made advertising to a product’s target audience much easier.
+
+Exxon’s auto-tuning algorithm may not have brought a whole lot of success with interpreting seismic data, as it was originally intended, but it has led to the success of many musical artists.
+
+Spotify’s algorithm-based playlist has made them stand out from the competition by comparing one user’s playlist to other users’ playlists they are able to introduce new music that aligns with the individual’s taste in music for an overall better experience. 
+3.
+I hypothesize that an efficient algorithm is fast and simple enough that it can resolve various problems, but not so simple that that the problem it solves is inconsequential. An inefficient algorithm is slow and overly complex potentially only working for a very specific problem.
